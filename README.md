@@ -1,6 +1,6 @@
 ![cover image](https://user-images.githubusercontent.com/1221976/87171284-6f72b100-c30d-11ea-98c1-2387a7349607.png)
 
-[![twitter badge](https://img.shields.io/badge/twitter-oza_shu-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/oza_shu) [![blog badge](https://img.shields.io/badge/blog-ozashu.com-1f425f?style=flat-square)](https://ozashu.com) [![blog badge](https://img.shields.io/badge/speakerdeck-ozashu-1f425f?style=flat-square)](https://speakerdeck.com/ozashu)
+[![HitCount](http://hits.dwyl.com/ozashu/ozashu.svg)](http://hits.dwyl.com/ozashu/ozashu) [![twitter badge](https://img.shields.io/badge/twitter-oza_shu-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/oza_shu) [![blog badge](https://img.shields.io/badge/blog-ozashu.com-1f425f?style=flat-square)](https://ozashu.com) [![blog badge](https://img.shields.io/badge/speakerdeck-ozashu-1f425f?style=flat-square)](https://speakerdeck.com/ozashu)
 
 ### Hi there, I'm ozashu 👋
 
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
