@@ -15,12 +15,6 @@
 * Container & Kubernetes / Envoy
 * Monitoring / DevOps
 
-### 🐾 Get in touch
-
-* Twitter: https://twitter.com/oza_shu
-* Blog: https://ozashu.com
-* Speaker Deck: https://speakerdeck.com/ozashu
-
 <!--- made by https://github.com/anuraghazra/github-readme-stats --->
 
 <!--
