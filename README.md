@@ -11,7 +11,7 @@
 
 ### 🔍 Interest
 
-* Go / Python
+* Go / Python / Rust
 * Container & Kubernetes / Envoy
 * Monitoring / DevOps
 
